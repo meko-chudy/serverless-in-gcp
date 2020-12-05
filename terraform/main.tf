@@ -8,7 +8,7 @@ provider "google" {
 #  Enable APIs
 #      - Cloud Function
 #      - Pub/Sub
-#      - Firestore
+#      - Firestore hhhh
 #----------------------------------------------------------------------------------------------
 
 
